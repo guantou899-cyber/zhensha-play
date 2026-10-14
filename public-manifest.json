@@ -1,0 +1,39 @@
+{
+  "version": "safe-demo-1",
+  "parts": {
+    "index.pck": [
+      "safe-demo-1-index.pck.gz.part1",
+      "safe-demo-1-index.pck.gz.part2",
+      "safe-demo-1-index.pck.gz.part3"
+    ],
+    "index.wasm": [
+      "safe-demo-1-index.wasm.part1",
+      "safe-demo-1-index.wasm.part2",
+      "safe-demo-1-index.wasm.part3"
+    ]
+  },
+  "raw_sizes": {
+    "index.pck": 36657252,
+    "index.wasm": 39514754
+  },
+  "files": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "FONT-LICENSE.txt": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2",
+    "index.apple-touch-icon.png": "01d4f63e525941e06ce74f5187dad030d20a8d52a07ce365ae4e94af97a3b1f5",
+    "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
+    "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
+    "index.html": "1272a3b2032b75dac17918b27d992a8582fedb26db594ced32cd8488b1c1939f",
+    "index.icon.png": "ad3c35ad0facf487c618204bd98db543034fc95224eadc7f08c7a9ff38d5b3b5",
+    "index.js": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba",
+    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+    "LICENSE.txt": "f6fb33cff0869d29c0edef833732ae14280e7fd0a7db19ca41b6d9441442201b",
+    "LICENSES.txt": "cb7cd9892cf73383156adf024622b0576560ef8fcac4588d1dadd27a1724ac89",
+    "README.md": "ac6a5565bf87373ab6da2a988a9fffaf56744712725b974eefe252e5c1e89060",
+    "safe-demo-1-index.pck.gz.part1": "d43d455cf06ac7ec8cc0f854fc6db3c5c43847db5687dec1b710c3ee80aac97d",
+    "safe-demo-1-index.pck.gz.part2": "60289f01af646db14d7baf73d87c1bb5cb6027d1720c239b70aabc705570c8d9",
+    "safe-demo-1-index.pck.gz.part3": "850149add6e9a7ababd1730c4264e386384a66e57d0b9e8ff6f8be056923cc09",
+    "safe-demo-1-index.wasm.part1": "637fc7be2e6c8cff1a32a2fd4aed411c05ac1ef10c6a7b925365638f3f0527e2",
+    "safe-demo-1-index.wasm.part2": "7aebdd16b11ac91d1fcd39c0923997f5a73a3d17263a6ebf6f4722167d94a0ed",
+    "safe-demo-1-index.wasm.part3": "219249da87c3cfda9a89fba24e253e60d6efd5191d0b108120ad93e51e54d707"
+  }
+}
